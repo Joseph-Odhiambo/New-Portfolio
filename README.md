@@ -5,13 +5,13 @@
 [Joseph Odhiambo](https://github.com/Joseph-Odhiambo)
 
 ### Version
-08.2019/001
+08.2020/001
 
 ## Description
 
 
 ## Screenshot
-<img src="" width="900px" height="440px">
+<img src="https://github.com/Joseph-Odhiambo/New-Portfolio/blob/master/img/icon/screen.png" width="900px" height="440px">
 
 ## Live Page 
  
@@ -20,11 +20,11 @@
 ## Installation / Setup instruction
 * Open Terminal {Ctrl+Alt+T}
 
-* git clone ``````
+* ```git clone``` ```https://github.com/Joseph-Odhiambo/New-Portfolio.git```
 
-* cd New-Portfolio
+* ```cd``` ```New-Portfolio```
 
-* code . or atom . depending on the text editor of your choise.
+* ```code .``` or ```atom .``` depending on the text editor of your choise.
 
 ## Technologies Used
 
