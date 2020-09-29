@@ -11,7 +11,7 @@
 
 
 ## Screenshot
-<img src="https://github.com/Joseph-Odhiambo/New-Portfolio/blob/master/img/icon/screen.png" width="900px" height="440px">
+<img src="https://github.com/Joseph-Odhiambo/New-Portfolio/blob/gh-pages/img/newhome.png?raw=true" width="900px" height="440px">
 
 ## Live Page 
  
