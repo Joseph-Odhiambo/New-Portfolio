@@ -14,7 +14,7 @@
 <img src="https://github.com/Joseph-Odhiambo/New-Portfolio/blob/gh-pages/img/newhome.png?raw=true" width="900px" height="440px">
 
 ## Live Page 
- [Joseph]()
+ [Joseph](https://joseph-odhiambo.github.io/New-Portfolio/)
 
 
 ## Installation / Setup instruction
