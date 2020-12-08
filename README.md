@@ -40,7 +40,7 @@
 
 ## Contact Information 
 
-If you have any question or contributions that would better this app, please email me at [josephkdo@gmail.com]
+If you have any question or contributions that would better this app, please email me at josephkdo@gmail.com
 
 ## License
 * *MIT License:*
