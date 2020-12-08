@@ -36,7 +36,7 @@
 
 ## Known Bugs
 
-* The contacts form is not operational. 
+* There is no known bugs for now maybe in the furture. 
 
 ## Contact Information 
 
