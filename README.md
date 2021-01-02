@@ -3,7 +3,7 @@
 ## Author
 
 * [Joseph Odhiambo](https://github.com/Joseph-Odhiambo)
-* Twitter name [Joe-Kicker]()
+* Twitter name [*Joe-Kicker*]()
 ### Version
 08.2020/002
 
