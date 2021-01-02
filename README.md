@@ -2,8 +2,8 @@
 
 ## Author
 
-[Joseph Odhiambo](https://github.com/Joseph-Odhiambo)
-
+* [Joseph Odhiambo](https://github.com/Joseph-Odhiambo)
+* Twotter name [Joe-Kicker]
 ### Version
 08.2020/002
 
